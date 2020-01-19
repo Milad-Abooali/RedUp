@@ -1,0 +1,28 @@
+====================================================================
+
+ Query Executed: SELECT * FROM `mmh_file_storage` WHERE `gallery_id` = '6' AND `album_id` = '2' AND (`filename` LIKE '%%' OR `file_title` LIKE '%%')  AND `is_private` = 0 ORDER BY `file_id` DESC LIMIT 1.4545345345453E+14, 12; 
+
+ Time Encountered: March 25, 2018, 10:17:30 AM 
+
+ URL Location: http://redup.ir/users.php 
+
+ IP Address: 103.63.213.24 
+
+ Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '1.4545345345453E+14, 12' at line 1 
+
+ Error Number: 1064 
+====================================================================
+====================================================================
+
+ Query Executed: SELECT * FROM `mmh_file_storage` WHERE `gallery_id` = '6' AND `album_id` = '2' AND (`filename` LIKE '%%' OR `file_title` LIKE '%%')  AND `is_private` = 0 ORDER BY `file_id` DESC LIMIT 1.4545345345453E+14, 12; 
+
+ Time Encountered: March 25, 2018, 10:47:22 AM 
+
+ URL Location: http://redup.ir/users.php 
+
+ IP Address: 69.28.199.180 
+
+ Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '1.4545345345453E+14, 12' at line 1 
+
+ Error Number: 1064 
+====================================================================

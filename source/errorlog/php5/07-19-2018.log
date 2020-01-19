@@ -1,0 +1,49 @@
+====================================================================
+Time Encountered: July 19, 2018, 12:11:03 AM
+Error Type: User Error (Error #256)
+Error String: mmhclass->image->is_image(): image does not exist. (/home/redhue/public_html/redup.ir/images/8283_img_f5i0.jpg)
+Error File: /home/redhue/public_html/redup.ir/source/includes/imagemagick.php
+Error Line: 81
+====================================================================
+====================================================================
+Time Encountered: July 19, 2018, 2:13:20 AM
+Error Type: User Error (Error #256)
+Error String: mmhclass->image->is_image(): image does not exist. (/home/redhue/public_html/redup.ir/images/deprt/7113_gopher_tortoise_04.jpeg.653x0_q80_crop_smart_pa3r_thumb.png)
+Error File: /home/redhue/public_html/redup.ir/source/includes/imagemagick.php
+Error Line: 81
+====================================================================
+====================================================================
+Time Encountered: July 19, 2018, 11:53:49 AM
+Error Type: User Error (Error #256)
+Error String: mmhclass->image->is_image(): image does not exist. (/home/redhue/public_html/redup.ir/images/m5knx/5001_photo_2017_11_23_14_20_11_fcpc_thumb.png)
+Error File: /home/redhue/public_html/redup.ir/source/includes/imagemagick.php
+Error Line: 81
+====================================================================
+====================================================================
+Time Encountered: July 19, 2018, 2:54:36 PM
+Error Type: User Error (Error #256)
+Error String: mmhclass->image->is_image(): image does not exist. (/home/redhue/public_html/redup.ir/images/7229_img_sipb.jpg)
+Error File: /home/redhue/public_html/redup.ir/source/includes/imagemagick.php
+Error Line: 81
+====================================================================
+====================================================================
+Time Encountered: July 19, 2018, 3:32:58 PM
+Error Type: User Error (Error #256)
+Error String: mmhclass->image->is_image(): image does not exist. (/home/redhue/public_html/redup.ir/images/328y1/1832_crisis_30_575x323_t6n6_thumb.png)
+Error File: /home/redhue/public_html/redup.ir/source/includes/imagemagick.php
+Error Line: 81
+====================================================================
+====================================================================
+Time Encountered: July 19, 2018, 3:50:53 PM
+Error Type: User Error (Error #256)
+Error String: mmhclass->image->is_image(): image does not exist. (/home/redhue/public_html/redup.ir/images/7666_1072759b_yj9g.jpg)
+Error File: /home/redhue/public_html/redup.ir/source/includes/imagemagick.php
+Error Line: 81
+====================================================================
+====================================================================
+Time Encountered: July 19, 2018, 6:50:15 PM
+Error Type: User Error (Error #256)
+Error String: mmhclass->image->is_image(): image does not exist. (/home/redhue/public_html/redup.ir/images/9745_codeboxlogo_jdcb.png)
+Error File: /home/redhue/public_html/redup.ir/source/includes/imagemagick.php
+Error Line: 81
+====================================================================

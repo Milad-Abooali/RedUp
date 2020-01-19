@@ -1,0 +1,49 @@
+====================================================================
+Time Encountered: January 1, 2019, 1:25:26 AM
+Error Type: User Error (Error #256)
+Error String: mmhclass->image->is_image(): image does not exist. (/home/redhue/public_html/images/15y8e/5571_img_ajn2_thumb.jpg)
+Error File: /home/redhue/public_html/source/includes/imagemagick.php
+Error Line: 81
+====================================================================
+====================================================================
+Time Encountered: January 1, 2019, 1:44:47 AM
+Error Type: User Error (Error #256)
+Error String: mmhclass->image->is_image(): image does not exist. (/home/redhue/public_html/images/ddfst/0586_screenshot_2016_11_05_15_39_50_ovtl_thumb.jpeg)
+Error File: /home/redhue/public_html/source/includes/imagemagick.php
+Error Line: 81
+====================================================================
+====================================================================
+Time Encountered: January 1, 2019, 4:33:54 AM
+Error Type: User Error (Error #256)
+Error String: mmhclass->image->is_image(): image does not exist. (/home/redhue/public_html/images/mzdvh/7724_a_379__gmpp_thumb.jpg)
+Error File: /home/redhue/public_html/source/includes/imagemagick.php
+Error Line: 81
+====================================================================
+====================================================================
+Time Encountered: January 1, 2019, 6:38:41 AM
+Error Type: User Error (Error #256)
+Error String: mmhclass->image->is_image(): image does not exist. (/home/redhue/public_html/images/jwtze/8817_image14_2kst_thumb.jpg)
+Error File: /home/redhue/public_html/source/includes/imagemagick.php
+Error Line: 81
+====================================================================
+====================================================================
+Time Encountered: January 1, 2019, 7:16:05 AM
+Error Type: User Error (Error #256)
+Error String: mmhclass->image->is_image(): image does not exist. (/home/redhue/public_html/images/z039x/4762_63_e5cu_thumb.jpg)
+Error File: /home/redhue/public_html/source/includes/imagemagick.php
+Error Line: 81
+====================================================================
+====================================================================
+Time Encountered: January 1, 2019, 2:10:40 PM
+Error Type: User Error (Error #256)
+Error String: mmhclass->image->is_image(): image does not exist. (/home/redhue/public_html/images/jprb7/0078_1_50__dyx1_thumb.jpg)
+Error File: /home/redhue/public_html/source/includes/imagemagick.php
+Error Line: 81
+====================================================================
+====================================================================
+Time Encountered: January 1, 2019, 5:45:29 PM
+Error Type: User Error (Error #256)
+Error String: mmhclass->image->is_image(): image does not exist. (/home/redhue/public_html/images/mjecl/1193_a_11__fx63_thumb.jpg)
+Error File: /home/redhue/public_html/source/includes/imagemagick.php
+Error Line: 81
+====================================================================

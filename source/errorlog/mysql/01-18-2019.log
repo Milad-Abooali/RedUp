@@ -1,0 +1,28 @@
+====================================================================
+
+ Query Executed: INSERT INTO `mmh_file_storage` (`filename`, `is_private`, `gallery_id`, `file_title`, `album_id`, `dir_name`) VALUES ('1801_logo_itf0.png', '0', '4', 'logo.png', '0', 'guxfh/');  
+
+ Time Encountered: January 18, 2019, 6:11:31 PM 
+
+ URL Location: http://redup.ir/upload.php 
+
+ IP Address: 5.120.22.182 
+
+ Error: Field 'icon' doesn't have a default value 
+
+ Error Number: 1364 
+====================================================================
+====================================================================
+
+ Query Executed: INSERT INTO `mmh_file_storage` (`filename`, `is_private`, `gallery_id`, `file_title`, `album_id`, `dir_name`) VALUES ('9024_logo_9h17.png', '0', '4', 'logo.png', '0', 'ko1zn/');  
+
+ Time Encountered: January 18, 2019, 6:21:35 PM 
+
+ URL Location: http://redup.ir/upload.php 
+
+ IP Address: 5.120.22.182 
+
+ Error: Field 'icon' doesn't have a default value 
+
+ Error Number: 1364 
+====================================================================

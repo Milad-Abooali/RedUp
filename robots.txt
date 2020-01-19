@@ -1,0 +1,8 @@
+# Sitemaps
+Sitemap: http://redup.ir/sitemap.xml
+Sitemap: http://redup.ir/pages-map.xml
+Sitemap: http://redup.ir/gallery-map.xml
+Sitemap: http://redup.ir/user-map.xml
+Sitemap: http://redup.ir/album-map.xml
+Sitemap: http://redup.ir/viewer-map.xml
+Sitemap: http://redup.ir/links-map.xml

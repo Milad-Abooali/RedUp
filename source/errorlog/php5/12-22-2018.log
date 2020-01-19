@@ -1,0 +1,14 @@
+====================================================================
+Time Encountered: December 22, 2018, 12:55:00 AM
+Error Type: User Error (Error #256)
+Error String: mmhclass->image->is_image(): image does not exist. (/home/redhue/public_html/images/8283_img_f5i0.jpg)
+Error File: /home/redhue/public_html/source/includes/imagemagick.php
+Error Line: 81
+====================================================================
+====================================================================
+Time Encountered: December 22, 2018, 8:31:49 PM
+Error Type: User Error (Error #256)
+Error String: mmhclass->image->is_image(): image does not exist. (/home/redhue/public_html/images/7229_img_sipb.jpg)
+Error File: /home/redhue/public_html/source/includes/imagemagick.php
+Error Line: 81
+====================================================================

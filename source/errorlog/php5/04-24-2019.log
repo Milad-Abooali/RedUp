@@ -1,0 +1,49 @@
+====================================================================
+Time Encountered: April 24, 2019, 5:47:11 AM
+Error Type: User Error (Error #256)
+Error String: mmhclass->image->is_image(): image does not exist. (/home/redhue/public_html/images/8283_img_f5i0.jpg)
+Error File: /home/redhue/public_html/source/includes/imagemagick.php
+Error Line: 81
+====================================================================
+====================================================================
+Time Encountered: April 24, 2019, 8:59:56 AM
+Error Type: User Error (Error #256)
+Error String: mmhclass->image->is_image(): image does not exist. (/home/redhue/public_html/images/8dkui/9521_1_99__ki0d_thumb.jpg)
+Error File: /home/redhue/public_html/source/includes/imagemagick.php
+Error Line: 81
+====================================================================
+====================================================================
+Time Encountered: April 24, 2019, 5:43:57 PM
+Error Type: User Error (Error #256)
+Error String: mmhclass->image->is_image(): image does not exist. (/home/redhue/public_html/images/p5mxa/4711_2996876_original_pu35_thumb.jpg)
+Error File: /home/redhue/public_html/source/includes/imagemagick.php
+Error Line: 81
+====================================================================
+====================================================================
+Time Encountered: April 24, 2019, 8:48:25 PM
+Error Type: User Error (Error #256)
+Error String: mmhclass->image->is_image(): image does not exist. (/home/redhue/public_html/images/vy0g7/2500_a_394__6aph_thumb.jpg)
+Error File: /home/redhue/public_html/source/includes/imagemagick.php
+Error Line: 81
+====================================================================
+====================================================================
+Time Encountered: April 24, 2019, 9:58:47 PM
+Error Type: User Error (Error #256)
+Error String: mmhclass->image->is_image(): image does not exist. (/home/redhue/public_html/images/7u8as/5914_0009_vdok_thumb.jpg)
+Error File: /home/redhue/public_html/source/includes/imagemagick.php
+Error Line: 81
+====================================================================
+====================================================================
+Time Encountered: April 24, 2019, 9:58:48 PM
+Error Type: User Error (Error #256)
+Error String: mmhclass->image->is_image(): image does not exist. (/home/redhue/public_html/images/)
+Error File: /home/redhue/public_html/source/includes/imagemagick.php
+Error Line: 81
+====================================================================
+====================================================================
+Time Encountered: April 24, 2019, 9:59:25 PM
+Error Type: User Error (Error #256)
+Error String: mmhclass->image->is_image(): image does not exist. (/home/redhue/public_html/images/)
+Error File: /home/redhue/public_html/source/includes/imagemagick.php
+Error Line: 81
+====================================================================

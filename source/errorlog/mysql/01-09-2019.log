@@ -1,0 +1,42 @@
+====================================================================
+
+ Query Executed: INSERT INTO `mmh_file_ratings` (`filename`, `total_rating`, `total_votes`, `voted_by`, `gallery_id`, `is_private`) VALUES ('3081_img_3435_ipf8.jpg', '0', '0', '', '21', ''); 
+
+ Time Encountered: January 9, 2019, 1:00:47 PM 
+
+ URL Location: https://redup.ir/reup.php 
+
+ IP Address: 84.241.29.221 
+
+ Error: Incorrect integer value: '' for column `redhue_fa`.`mmh_file_ratings`.`is_private` at row 1 
+
+ Error Number: 1366 
+====================================================================
+====================================================================
+
+ Query Executed: INSERT INTO `mmh_file_storage` (`filename`, `is_private`, `gallery_id`, `file_title`, `album_id`, `dir_name`) VALUES ('9555_36_two_arrow_left_t7wy.png', '0', '4', '36_two_arrow_left.png', '0', 'u20dc/');  
+
+ Time Encountered: January 9, 2019, 4:18:51 PM 
+
+ URL Location: http://redup.ir/upload.php 
+
+ IP Address: 5.119.36.42 
+
+ Error: Field 'icon' doesn't have a default value 
+
+ Error Number: 1364 
+====================================================================
+====================================================================
+
+ Query Executed: INSERT INTO `mmh_file_storage` (`filename`, `is_private`, `gallery_id`, `file_title`, `album_id`, `dir_name`) VALUES ('8992_36_two_arrow_left_z55g.png', '0', '4', '36_two_arrow_left.png', '0', 'fw9q6/');  
+
+ Time Encountered: January 9, 2019, 4:19:03 PM 
+
+ URL Location: http://redup.ir/upload.php 
+
+ IP Address: 5.119.36.42 
+
+ Error: Field 'icon' doesn't have a default value 
+
+ Error Number: 1364 
+====================================================================

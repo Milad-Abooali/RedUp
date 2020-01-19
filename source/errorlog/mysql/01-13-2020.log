@@ -1,0 +1,42 @@
+====================================================================
+
+ Query Executed:  
+
+ Time Encountered: January 13, 2020, 5:00:05 AM 
+
+ URL Location: https://redup.ir/viewer.php 
+
+ IP Address: 192.99.13.186 
+
+ Error: Connection refused 
+
+ Error Number: 2002 
+====================================================================
+====================================================================
+
+ Query Executed:  
+
+ Time Encountered: January 13, 2020, 5:00:11 AM 
+
+ URL Location: https://redup.ir/download.php 
+
+ IP Address: 54.36.148.12 
+
+ Error: Connection refused 
+
+ Error Number: 2002 
+====================================================================
+====================================================================
+
+ Query Executed:  
+
+ Time Encountered: January 13, 2020, 5:00:06 PM 
+
+ URL Location: http://redup.ir/viewer.php 
+
+ IP Address: 54.36.150.174 
+
+ Error: MySQL server has gone away 
+
+ Error Number: 2006 
+====================================================================

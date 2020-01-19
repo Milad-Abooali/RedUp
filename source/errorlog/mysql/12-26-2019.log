@@ -1,0 +1,70 @@
+====================================================================
+
+ Query Executed:  
+
+ Time Encountered: December 26, 2019, 1:00:11 AM 
+
+ URL Location: http://redup.ir/img.php 
+
+ IP Address: 87.250.244.23 
+
+ Error: MySQL server has gone away 
+
+ Error Number: 2006 
+====================================================================
+====================================================================
+
+ Query Executed:  
+
+ Time Encountered: December 26, 2019, 1:00:12 AM 
+
+ URL Location: http://redup.ir/img.php 
+
+ IP Address: 141.8.141.136 
+
+ Error: Connection refused 
+
+ Error Number: 2002 
+====================================================================
+====================================================================
+
+ Query Executed:  
+
+ Time Encountered: December 26, 2019, 1:00:15 AM 
+
+ URL Location: http://redup.ir/download.php 
+
+ IP Address: 87.250.244.1 
+
+ Error: Connection refused 
+
+ Error Number: 2002 
+====================================================================
+====================================================================
+
+ Query Executed:  
+
+ Time Encountered: December 26, 2019, 5:00:19 AM 
+
+ URL Location: http://redup.ir/contact.php 
+
+ IP Address: 46.229.168.139 
+
+ Error: Connection refused 
+
+ Error Number: 2002 
+====================================================================
+====================================================================
+
+ Query Executed:  
+
+ Time Encountered: December 26, 2019, 1:00:05 PM 
+
+ URL Location: https://redup.ir/contact.php 
+
+ IP Address: 46.229.168.135 
+
+ Error: MySQL server has gone away 
+
+ Error Number: 2006 
+====================================================================

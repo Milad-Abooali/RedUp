@@ -1,0 +1,196 @@
+====================================================================
+
+ Query Executed:  
+
+ Time Encountered: December 3, 2019, 1:00:07 AM 
+
+ URL Location: http://40movies.ir/index.php 
+
+ IP Address: 216.244.66.227 
+
+ Error: MySQL server has gone away 
+
+ Error Number: 2006 
+====================================================================
+====================================================================
+
+ Query Executed:  
+
+ Time Encountered: December 3, 2019, 1:00:07 AM 
+
+ URL Location: http://40movies.ir/index.php 
+
+ IP Address: 216.244.66.227 
+
+ Error: MySQL server has gone away 
+
+ Error Number: 2006 
+====================================================================
+====================================================================
+
+ Query Executed: SELECT `ban_value` FROM `mmh_ban_filter` WHERE `ban_type` = '1' AND (`ban_value` = '216.244.66.227' OR `ban_value` = '216.244.*.*' OR `ban_value` = '216.244.*.227' OR `ban_value` = '216.244.66.*') LIMIT 1; 
+
+ Time Encountered: December 3, 2019, 1:00:07 AM 
+
+ URL Location: http://40movies.ir/index.php 
+
+ IP Address: 216.244.66.227 
+
+ Error: MySQL server has gone away 
+
+ Error Number: 2006 
+====================================================================
+====================================================================
+
+ Query Executed:  
+
+ Time Encountered: December 3, 2019, 1:00:07 AM 
+
+ URL Location: http://40movies.ir/index.php 
+
+ IP Address: 46.229.168.151 
+
+ Error: Connection refused 
+
+ Error Number: 2002 
+====================================================================
+====================================================================
+
+ Query Executed:  
+
+ Time Encountered: December 3, 2019, 5:00:10 AM 
+
+ URL Location: http://40movies.ir/index.php 
+
+ IP Address: 46.229.168.142 
+
+ Error: MySQL server has gone away 
+
+ Error Number: 2006 
+====================================================================
+====================================================================
+
+ Query Executed:  
+
+ Time Encountered: December 3, 2019, 12:09:29 PM 
+
+ URL Location: http://40movies.ir/index.php 
+
+ IP Address: 216.244.66.227 
+
+ Error: MySQL server has gone away 
+
+ Error Number: 2006 
+====================================================================
+====================================================================
+
+ Query Executed:  
+
+ Time Encountered: December 3, 2019, 12:09:29 PM 
+
+ URL Location: http://40movies.ir/index.php 
+
+ IP Address: 216.244.66.227 
+
+ Error: MySQL server has gone away 
+
+ Error Number: 2006 
+====================================================================
+====================================================================
+
+ Query Executed:  
+
+ Time Encountered: December 3, 2019, 12:09:29 PM 
+
+ URL Location: http://40movies.ir/index.php 
+
+ IP Address: 46.229.168.139 
+
+ Error: MySQL server has gone away 
+
+ Error Number: 2006 
+====================================================================
+====================================================================
+
+ Query Executed:  
+
+ Time Encountered: December 3, 2019, 12:09:29 PM 
+
+ URL Location: http://40movies.ir/index.php 
+
+ IP Address: 216.244.66.227 
+
+ Error: MySQL server has gone away 
+
+ Error Number: 2006 
+====================================================================
+====================================================================
+
+ Query Executed:  
+
+ Time Encountered: December 3, 2019, 12:09:33 PM 
+
+ URL Location: http://40movies.ir/index.php 
+
+ IP Address: 46.229.168.142 
+
+ Error: Connection refused 
+
+ Error Number: 2002 
+====================================================================
+====================================================================
+
+ Query Executed:  
+
+ Time Encountered: December 3, 2019, 9:00:22 PM 
+
+ URL Location: https://mail.iohost.ir/download.php 
+
+ IP Address: 54.36.148.139 
+
+ Error: MySQL server has gone away 
+
+ Error Number: 2006 
+====================================================================
+====================================================================
+
+ Query Executed:  
+
+ Time Encountered: December 3, 2019, 9:00:22 PM 
+
+ URL Location: http://40movies.ir/index.php 
+
+ IP Address: 46.229.168.149 
+
+ Error: MySQL server has gone away 
+
+ Error Number: 2006 
+====================================================================
+====================================================================
+
+ Query Executed:  
+
+ Time Encountered: December 3, 2019, 9:00:25 PM 
+
+ URL Location: http://40movies.ir/index.php 
+
+ IP Address: 46.229.168.135 
+
+ Error: Connection refused 
+
+ Error Number: 2002 
+====================================================================
+====================================================================
+
+ Query Executed:  
+
+ Time Encountered: December 3, 2019, 9:00:27 PM 
+
+ URL Location: http://40movies.ir/index.php 
+
+ IP Address: 46.229.168.162 
+
+ Error: Connection refused 
+
+ Error Number: 2002 
+====================================================================
